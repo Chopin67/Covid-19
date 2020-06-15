@@ -1,0 +1,1 @@
+int(float(input("x= ")))
